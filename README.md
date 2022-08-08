@@ -1,5 +1,4 @@
 # Pewlett-Hackard-Analysis
-# Pewlett-Hackard-Analysis
 
 ## Overview
 In this project, we are helping Bobby to analyze on given data using PostgreSQL to generate result. The assignment was to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. This analysis is helping Bobby's manager to prepare for the "silver tsunami" as the result will tell us the number of current employees will reach the retirement age. 
